@@ -1,0 +1,15 @@
+html {
+  font-family: Verdana, sans-serif;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+a {
+  color: aquamarine;
+}
